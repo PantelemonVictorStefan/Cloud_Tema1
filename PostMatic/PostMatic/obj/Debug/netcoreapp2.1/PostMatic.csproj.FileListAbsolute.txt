@@ -1,0 +1,64 @@
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.deps.json
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.runtimeconfig.json
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.runtimeconfig.dev.json
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.dll
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csprojAssemblyReference.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csproj.CoreCompileInputs.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorAssemblyInfo.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorAssemblyInfo.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.AssemblyInfoInputs.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.AssemblyInfo.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.TagHelpers.input.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.TagHelpers.output.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorCoreGenerate.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorTargetAssemblyInfo.cache
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorTargetAssemblyInfo.cs
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.pdb
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.Views.dll
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.Views.pdb
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.Views.pdb
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.dll
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.pdb
+C:\Users\MasterCode\source\repos\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csproj.CopyComplete
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.deps.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.runtimeconfig.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.Views.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\bin\Debug\netcoreapp2.1\PostMatic.Views.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.TagHelpers.input.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.TagHelpers.output.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.Views.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\PostMatic\PostMatic\obj\Debug\netcoreapp2.1\PostMatic.csproj.CopyComplete

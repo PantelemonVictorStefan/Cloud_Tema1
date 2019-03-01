@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body onload="getData()">
+
+    <script>
+        var useme
+            var getJSON = function (url, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url, true);
+            xhr.responseType = 'json';
+            xhr.onload = function () {
+                var status = xhr.status;
+                if (status === 200) {
+                    callback(xhr.response);
+                } else {
+                    //callback(status, xhr.response);
+                    console.log(status, xhr.response)
+                }
+            };
+            xhr.send();
+        };
+
+        function addPerson(person) {
+            //console.log(person)
+            //useme = person;
+            //useme.results[0].login.username
+            //useme.results[0].picture.large
+            document.body.innerHTML += '<div><h1>' + person.results[0].login.username + " has joined the group" + '</h1>' + "<img src=\"" + person.results[0].picture.large+"\"></div>"
+        }
+
+        function drawBody(data) {
+            for (let i = 0; i < data.length; i++) {
+                addPerson(JSON.parse(data[i]))
+            }
+        }
+
+        function getData() {
+            getJSON("https://localhost:44388/getUsers", drawBody);
+        }
+    </script>
+</body>
+</html>

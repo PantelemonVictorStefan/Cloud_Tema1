@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Pagina</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <a href="metrics.html">Metrics</a>
+
+        <form action="generateImage" method="get">
+
+            <input type="submit" value="Generate image">
+        </form>
+
+        <form action="getRandomPeople" method="get">
+
+            <input type="submit" value="Get New identity">
+        </form>
+
+        <button onClick="postToPostMatic()">Post to postmatic</button>
+        
+
+    </body>
+<script>
+    function postToPostMatic() {
+ 
+        var xhr = new XMLHttpRequest();
+        // we defined the xhr
+        /*console.log(xhr.readyState);
+        if (xhr.readyState != 4) return;
+
+        if (xhr.status == 200) {
+           
+            //window.location.href = "https://localhost:44388/htmlpage.html";
+        }
+        */
+        
+        xhr.open('POST', "postToPostMatic", true);
+        xhr.send();
+    }
+</script>
+</html>

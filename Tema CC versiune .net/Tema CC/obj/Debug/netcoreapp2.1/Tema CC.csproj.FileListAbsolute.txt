@@ -1,0 +1,64 @@
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.deps.json
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.runtimeconfig.json
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.runtimeconfig.dev.json
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.dll
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.pdb
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.Views.dll
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.Views.pdb
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csprojAssemblyReference.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csproj.CoreCompileInputs.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorAssemblyInfo.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorAssemblyInfo.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.AssemblyInfoInputs.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.AssemblyInfo.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.TagHelpers.input.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.TagHelpers.output.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorCoreGenerate.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorTargetAssemblyInfo.cache
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorTargetAssemblyInfo.cs
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.Views.pdb
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.dll
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.pdb
+C:\Users\MasterCode\source\repos\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csproj.CopyComplete
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.deps.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.runtimeconfig.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.Views.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\bin\Debug\netcoreapp2.1\Tema CC.Views.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.TagHelpers.input.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.TagHelpers.output.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.Views.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.dll
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.pdb
+C:\Users\Admin\Desktop\cloud\tema 1 cloud\Tema CC\Tema CC\obj\Debug\netcoreapp2.1\Tema CC.csproj.CopyComplete

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+    <h1>Statistics</h1>
+
+    <div id="piechart"></div>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+
+        function updateChart(a, b) {
+            //console.log(b);
+            let rawStats = b //JSON.parse(b);
+            var stats = [
+                ['Host', 'Latency']];
+            for (let i = 0; i < rawStats.length; i++) {
+                stats.push([rawStats[i]["request"], rawStats[i]["latency"]])
+            }
+
+            //console.log(stats);
+
+            drawChart(stats);
+
+        }
+
+        var getJSON = function (url, callback) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url, true);
+            xhr.responseType = 'json';
+            xhr.onload = function () {
+                var status = xhr.status;
+                if (status === 200) {
+                    callback(null, xhr.response);
+                } else {
+                    //callback(status, xhr.response);
+                    console.log(status, xhr.response)
+                }
+            };
+            xhr.send();
+        };
+
+
+        function getStatistics() {
+            getJSON("getStatistics", updateChart);
+        }
+
+
+
+
+    </script>
+
+    <script type="text/javascript">
+        // Load google charts
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(getStatistics);
+
+        // Draw the chart and set the chart values
+        function drawChart(stats) {
+
+            var data = google.visualization.arrayToDataTable(stats);
+            var options = { 'title': 'Time it takes to get data from host', 'width': 550, 'height': 400 };
+
+            // Display the chart inside the <div> element with id="piechart"
+            var chart = new google.visualization.BarChart(document.getElementById('piechart'));
+            chart.draw(data, options);
+        }
+    </script>
+
+
+
+</body>
+</html>
